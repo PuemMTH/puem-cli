@@ -1,0 +1,26 @@
+[
+  {
+    "name": "help",
+    "description": "Show this help message"
+  },
+  {
+    "name": "date",
+    "description": "Convert date to Thai format",
+    "options": [
+      {
+        "name": "d",
+        "description": "Date format (default: 1)"
+      }
+    ]
+  },
+  {
+    "name": "download",
+    "description": "Download video from YouTube",
+    "options": [
+      {
+        "name": "u",
+        "description": "YouTube video URL"
+      }
+    ]
+  }
+]
